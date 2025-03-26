@@ -16,7 +16,7 @@ import java.net.URL;
 
 public class HelloApplication extends Application {
 
-    private static final String API_KEY = "klucz_api";
+    private static final String API_KEY = "f0c1a9401cf30ed661526fc08903f7f0";
     private static final String API_URL = "https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s&lang=pl";
 
     public static void main(String[] args) {
